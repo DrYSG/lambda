@@ -1,0 +1,29 @@
+{
+  "name": "lambda",
+  "version": "1.0.0",
+  "description": "lambda test",
+  "main": "graphql.js",
+  "dependencies": {
+    "apollo-server-lambda": "^2.9.7",
+    "graphql": "^14.5.8"
+  },
+  "devDependencies": {
+    "serverless": "^1.57.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DrYSG/lambda.git"
+  },
+  "keywords": [
+    "lambda"
+  ],
+  "author": "ysg",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DrYSG/lambda/issues"
+  },
+  "homepage": "https://github.com/DrYSG/lambda#readme"
+}
